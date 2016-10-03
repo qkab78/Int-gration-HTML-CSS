@@ -1,0 +1,44 @@
+body{height: 700px; width: auto; background-color: rgb(246, 246, 246);;}
+
+#headerBar{
+	height: 80px; 
+	width: 100%; 
+	background-color: rgb(236, 176, 15);
+	position: relative;
+	bottom: 8px;
+
+}
+
+#sideRight{
+	background-color: white;
+	height: 100%;
+	width: 300px;
+	float: right;
+	position: relative;
+	bottom: 100px;
+	left: 8px;
+}
+#sideRight p{
+	padding-top: 300px; 
+	text-align: center;
+}
+.colorBar{
+	background-color: rgb(246, 246, 246);
+	width: 60%;
+	height: 92px;
+}
+
+#sideLeft{
+	background-color: rgba(54, 61, 69, 0.99);
+	height: 100%;
+	width: 15%;
+	float: left;
+	position: relative;
+	bottom: 100px;
+}
+
+#section{
+	float: left;
+	margin-left: 150px; 
+	margin-top: 50px;
+}

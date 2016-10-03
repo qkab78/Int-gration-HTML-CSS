@@ -1,0 +1,71 @@
+body{height: 700px; width: auto; background-color: rgb(246, 246, 246);;}
+
+#headerBar{
+	height: 80px; 
+	width: 100%; 
+	background-color: rgb(236, 176, 15);
+	position: relative;
+	bottom: 8px;
+
+}
+
+#sideRight{
+	background-color: white;
+	height: 100%;
+	width: 300px;
+	float: right;
+	position: relative;
+	bottom: 100px;
+	left: 8px;
+	padding-bottom: 138px;
+}
+#sideRight p{
+	padding-top: 300px; 
+	text-align: center;
+	color: rgb(180, 180, 180);
+}
+.colorBar{
+	background-color: rgb(246, 246, 246);
+	width: 60%;
+	height: 92px;
+}
+
+#sideLeft{
+	background-color: rgba(54, 61, 69, 0.99);
+	height: 100%;
+	width: 15%;
+	float: left;
+	position: relative;
+	bottom: 100px;
+	color: white; padding-left: 40px; 
+	font-size: 18px;
+	padding-bottom: 138px;
+}
+.article1{border-bottom: 1px solid rgb(62, 71, 80); padding-left: 40px; font-size: 18px; margin-top: 80px; color: rgb(132, 140, 151);}
+.article2{border-bottom: 1px solid rgb(62, 71, 80); padding-left: 40px; font-size: 18px; color: rgb(132, 140, 151);}
+.article3{border-bottom: 1px solid rgb(62, 71, 80); padding-left: 40px; font-size: 18px; color: rgb(132, 140, 151);}
+.article4{ padding-left: 50px; color: rgb(132, 140, 151);}
+button{
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 2px solid rgb(140, 179, 192);
+    border-radius: 5px;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    height: 50px;
+    width: 200px;
+    margin-left: 30px;
+    color: rgb(140, 179, 192);
+}
+
+#section{
+	float: left;
+	margin-left: 150px; 
+	margin-top: 50px;
+}
+table img{height: 30px;}
+
+th, td{padding: 12px;}
+thead th{border-bottom: 1px solid black;}
+tbody td{border-bottom: 1px solid rgb(213, 213, 213);}

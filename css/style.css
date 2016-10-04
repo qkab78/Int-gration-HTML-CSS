@@ -1,4 +1,14 @@
-body{height: 700px; width: auto; background-color: rgb(246, 246, 246);;}
+
+
+html{
+height: 100%; width: 100%; 
+
+
+}
+
+body{height: 100%; width: 100%; 
+	background-color: rgb(246, 246, 246);
+}
 
 #headerBar{
 	height: 80px; 
